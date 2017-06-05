@@ -1,0 +1,301 @@
+.backg{
+    background:url(pictures/fons01.png) no-repeat center; 
+ background-size: cover;
+    min-height: 662px;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+}   
+
+
+
+
+.header{
+    background-color:rgba(31, 18, 222, 0.31);
+    width: 61.84rem;
+    height: 100px;
+    border-radius: 5px;
+   margin: 0rem auto;
+}
+.instogram{
+    height: 10rem;
+    width: 15rem;
+    cursor: pointer;
+}
+.vk{
+    border-radius: 5px;
+    height: 10rem;
+    opacity: 0.7;
+     cursor: pointer;
+    width: 15rem;
+}
+.facebook{
+    border-radius: 5px;
+    width: 15rem;
+    height: 10rem;
+    opacity: 0.7;
+     cursor: pointer;
+}
+.coll_beak{
+    border-radius: 5px;
+    width: 15rem;
+    height: 10rem;
+    opacity: 0.7;
+     cursor: pointer;
+}
+.content{
+    height: 530px
+}
+.md_wd1{
+    margin: 1.5rem;
+    height: 11rem;
+    width: 11rem;
+    border-radius: 15px;
+     cursor: pointer;
+     border: 5px solid rgba(255, 255, 255, 0);
+}
+.md_wd1:hover{
+   border-color: rgba(19, 237, 197, 0.6);
+    border-style: inset; 
+}
+.md_wd2{
+    margin: 1.5rem;
+     height: 11rem;
+    width: 11rem;
+    border-radius: 15px;
+     cursor: pointer;
+     border: 5px solid rgba(255, 255, 255, 0);
+}
+.md_wd2:hover{
+   border-color: rgba(19, 237, 197, 0.6);
+    border-style: inset; 
+}
+.md_wd3{
+    margin: 1.5rem;
+     height: 11rem;
+    width: 11rem;
+    border-radius: 15px;
+     cursor: pointer;
+     border: 5px solid rgba(255, 255, 255, 0);
+}
+.md_wd3:hover{
+   border-color: rgba(19, 237, 197, 0.6);
+    border-style: inset; 
+}
+.md_wd4{
+    margin: 0% 0% 0% 21.8%;
+     height: 11rem;
+    width: 11rem;
+    border-radius: 15px;
+     cursor: pointer;
+     border: 5px solid rgba(255, 255, 255, 0);
+}
+.md_wd4:hover{
+   border-color: rgba(19, 237, 197, 0.6);
+    border-style: inset; 
+}
+.md_wd5{
+    margin: 1.5rem;
+     height: 11rem;
+    width: 11rem;
+    border-radius: 15px;
+     cursor: pointer;
+     border: 5px solid rgba(255, 255, 255, 0);
+}
+.md_wd5:hover{
+   border-color: rgba(19, 237, 197, 0.6);
+    border-style: inset; 
+}
+.md_wd6{
+   margin: 1.5rem;
+     height: 11rem;
+    width: 11rem;
+    border-radius: 15px;
+     cursor: pointer;
+     border: 5px solid rgba(255, 255, 255, 0);
+}
+.md_wd6:hover{
+   border-color: rgba(19, 237, 197, 0.6);
+    border-style: inset; 
+}
+.md_wd7{
+    margin: 1.5rem;
+     height: 11rem;
+    width: 11rem;
+    border-radius: 15px;
+     cursor: pointer;
+     border: 5px solid rgba(255, 255, 255, 0);
+}
+.md_wd7:hover{
+   border-color: rgba(19, 237, 197, 0.6);
+    border-style: inset; 
+}
+.md_wd8{
+    margin: 1.5rem;
+     height: 11rem;
+    width: 11rem;
+    border-radius: 15px;
+     cursor: pointer;
+     border: 5px solid rgba(255, 255, 255, 0);
+}
+.md_wd8:hover{
+   border-color: rgba(19, 237, 197, 0.6);
+    border-style: inset; 
+}
+.md_wd9{
+   margin: 1.5rem;
+     height: 11rem;
+    width: 11rem;
+    border-radius: 15px;
+     cursor: pointer;
+     border: 5px solid rgba(255, 255, 255, 0);
+}
+.md_wd9:hover{
+   border-color: rgba(19, 237, 197, 0.6);
+    border-style: inset; 
+}.md_wd10{
+    margin-left: 25rem;
+     height: 11rem;
+    width: 11rem;
+    border-radius: 15px;
+     cursor: pointer;
+     border: 5px solid rgba(255, 255, 255, 0);
+}
+.md_wd10:hover{
+   border-color: rgba(19, 237, 197, 0.6);
+    border-style: inset; 
+}
+.md_wd11{
+    margin: 1.5rem;
+     height: 11rem;
+    width: 11rem;
+    border-radius: 15px;
+     cursor: pointer;
+     border: 5px solid rgba(255, 255, 255, 0);
+}
+.md_wd11:hover{
+   border-color: rgba(19, 237, 197, 0.6);
+    border-style: inset; 
+}
+.md_wd12{
+    margin: 1.5rem;
+     height: 11rem;
+    width: 11rem;
+    border-radius: 15px;
+     cursor: pointer;
+     border: 5px solid rgba(255, 255, 255, 0);
+}
+.md_wd12:hover{
+   border-color: rgba(19, 237, 197, 0.6);
+    border-style: inset; 
+}
+.md_wd13{
+    margin: 1.5rem;
+     height: 11rem;
+    width: 11rem;
+    border-radius: 15px;
+     cursor: pointer;
+     border: 5px solid rgba(255, 255, 255, 0);
+}
+.md_wd13:hover{
+   border-color: rgba(19, 237, 197, 0.6);
+    border-style: inset; 
+}
+.md_wd14{
+    margin: 1.5rem;
+     height: 11rem;
+    width: 11rem;
+    border-radius: 15px;
+     cursor: pointer;
+     border: 5px solid rgba(255, 255, 255, 0);
+}
+.md_wd14:hover{
+   border-color: rgba(19, 237, 197, 0.6);
+    border-style: inset; 
+}
+.md_wd15{
+    margin: 1.5rem;
+     height: 11rem;
+    width: 11rem;
+    border-radius: 15px;
+     cursor: pointer;
+     border: 5px solid rgba(255, 255, 255, 0);
+}
+.md_wd15:hover{
+   border-color: rgba(19, 237, 197, 0.6);
+    border-style: inset; 
+}
+.md_wd16{
+   margin-left: 25rem;
+     height: 11rem;
+    width: 11rem;
+    border-radius: 15px;
+     cursor: pointer;
+     border: 5px solid rgba(255, 255, 255, 0);
+}
+.md_wd16:hover{
+   border-color: rgba(19, 237, 197, 0.6);
+    border-style: inset; 
+}
+.md_wd17{
+    margin: 1.5rem;
+     height: 11rem;
+    width: 11rem;
+    border-radius: 15px;
+     cursor: pointer;
+     border: 5px solid rgba(255, 255, 255, 0);
+}
+.md_wd17:hover{
+   border-color: rgba(19, 237, 197, 0.6);
+    border-style: inset; 
+}
+.md_wd18{
+    margin: 1.5rem;
+     height: 11rem;
+    width: 11rem;
+    border-radius: 15px;
+     cursor: pointer;
+     border: 5px solid rgba(255, 255, 255, 0);
+}
+.md_wd18:hover{
+   border-color: rgba(19, 237, 197, 0.6);
+    border-style: inset; 
+}
+.pp{
+opacity:0.8;
+-moz-opacity:0.8;
+filter: alpha(opacity=80) black;
+-khtml-opacity: 0.8;
+
+}
+
+.pp:hover{
+opacity:1;
+-moz-opacity:1;
+filter: alpha(opacity=100) black;
+-khtml-opacity: 1;
+background-color:rgba(208, 208, 208, 0.31);
+}
+.Brass_knuckle_bracelet{
+    margin: 15px;
+    height: 100px;
+    width: 100px;
+    border-radius: 15px;
+    cursor: pointer;
+    border: 3px solid rgba(255, 255, 255, 0);
+}
+.Brass_knuckle_bracelet:hover{
+   border-color: rgba(22, 241, 231, 0.31);
+    border-style: inset; 
+}
+.booton{
+    height: 70px;
+    width: 700px;
+    background-color: rgba(16, 126, 241, 0.43);
+    position: absolute;
+    right: 0;
+    left: 0;
+    margin: auto;
+    border-radius: 10px;
+    
+}
