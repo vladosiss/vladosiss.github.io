@@ -1,17 +1,12 @@
 .backg{
     background:url(pictures/fons01.png) no-repeat center; 
  background-size: cover;
-    min-height: 692px;
+    min-height: 820px;
     -webkit-background-size:cover;
     -moz-background-size:cover;
     -o-background-size:cover;
 
-
 }   
-
-
-
-
 .header{
     background-color:rgba(31, 18, 222, 0.31);
     width: 61.84rem;
@@ -203,6 +198,7 @@
    border-color: rgba(19, 237, 197, 0.6);
     border-style: inset; 
 }
+
 .md_wd14{
     margin: 1.5rem;
      height: 11rem;
@@ -303,4 +299,77 @@ background-color:rgba(208, 208, 208, 0.31);
     
 }
 
-/*ttttt*/
+/*слайдер*/
+
+.slaer_test{
+margin: 0 auto;
+    background: #fff;
+     max-width: 31rem;
+}
+.slaer_test02{
+margin: 0 auto;
+    background: #fff;
+     max-width: 40rem;
+}
+
+.border{
+border: 2px solid #fff;
+}
+.sl_slide{
+    position: relative;
+}
+.slick-slide img{
+    border-radius: 10px;
+}
+.slick-prev:before, .slick-next:before {
+    color: rgba(255, 0, 0, 0.73);
+}
+   
+.slick-dots li button{
+    border:1px solid #777;
+    border-radius:50%;
+    -webkit-transition: border-color .3s;
+    -o-transition: border-color .3s;
+    transition: border-color .3s;
+}
+.slick-dots li button:before{
+    content: '';
+    height: 10px;
+    width: 10px;
+    background: #777;
+    opacity: 1;
+    border-radius: 50%;
+    top: 50%;
+    left: 50%;
+    margin: -5px 0 0 -5px;
+    -webkit-transition:background .3s;
+    -o-transition:background .3s;
+    transition: background .3s;
+    
+}
+.slick-dots li button:hover,
+.slick-dots li.slick-active button{
+    border-color: #e80f0f;
+}
+.slick-dots li button:hover:before,
+.slick-dots li.slick-active button:before{
+    background: rgba(113, 110, 110, 0.55);
+}
+               /* конец-слайдер*/
+                    /*модальное-окно*/
+.h3, h3{
+    text-align: center;
+    margin-top: 0px;
+        color: rgb(0, 0, 0);
+    font-size: 27px;
+}
+.h2, h2{
+text-align: center;
+    font-size: 24px;
+}
+.vidos{
+text-align: center;
+    
+}
+
+/*конец-модального окна*/

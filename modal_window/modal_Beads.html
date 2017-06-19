@@ -1,10 +1,84 @@
-<div class="thumbnail" >
-                              <img src="/pictures/Brass_knuckle_bracelet.png" alt="туристическая печка">
-                              <div class="caption">
-                                <h3>Походные печи</h3>
+<h3>Походные печи</h3>
+         <div class="slaer_test">
+       <div class="sl">
+           <div class="sl_slide"><img src="images_slick/slick_slider1.jpg" class="border" alt="foto1"></div>
+           <div class="sl_slide"><img src="images_slick/slick_slider2.jpg" class="border" alt="foto2"></div>
+           <div class="sl_slide"><img src="images_slick/slick_slider3.jpg"  class="border" alt="foto3"></div>
+           <div class="sl_slide"><img src="images_slick/slick_slider4.jpg" class="border" alt="foto4"></div>
+           <div class="sl_slide"><img src="images_slick/slick_slider5.jpg" class="border" alt="foto5"></div>
+       </div>
+   </div>
+     <div class="slaer_test02">
+       <div class="sl02">
+           <div class="sl_slide"><img src="images_slick/min_slick_slider1.jpg" class="border" alt="foto1"></div>
+           <div class="sl_slide"><img src="images_slick/min_slick_slider2.jpg" class="border" alt="foto2"></div>
+           <div class="sl_slide"><img src="images_slick/min_slick_slider3.jpg"  class="border" alt="foto3"></div>
+           <div class="sl_slide"><img src="images_slick/min_slick_slider4.jpg" class="border" alt="foto4"></div>
+           <div class="sl_slide"><img src="images_slick/min_slick_slider5.jpg" class="border" alt="foto5"></div>
+           <div class="sl_slide"><img src="images_slick/min_slick_slider1.jpg" class="border" alt="foto1"></div>
+           <div class="sl_slide"><img src="images_slick/min_slick_slider2.jpg" class="border" alt="foto2"></div>
+           <div class="sl_slide"><img src="images_slick/min_slick_slider3.jpg"  class="border" alt="foto3"></div>
+           <div class="sl_slide"><img src="images_slick/min_slick_slider4.jpg" class="border" alt="foto4"></div>
+           <div class="sl_slide"><img src="images_slick/min_slick_slider5.jpg" class="border" alt="foto5"></div>
+       </div>
+   </div>
+<div class="vidos">
+    <iframe width="160" height="115" src="https://www.youtube.com/embed/ibD9Pms5LwA" frameborder="0" allowfullscreen></iframe>
+</div>
+  
+     <div class="caption">
+                               <h2>Описание</h2>
                                 <p>На данную печку помещаются 2 армейских котелка вместимостью 1,3л каждый. Вдоль печки можно разместить 2 небольших шампура, для чего предусмотрены вырезы в передней и задней стенках.</p>
                                 <p class="centr"><a href="#" class="btn btn-primary" role="button" data-toggle="modal" data-target="#myModal1">Обратный звонок</a> <a href="#" class="btn btn-default" role="button" 
                                 data-toggle="modal" data-target="#buy_button">Оформить заказ</a></p>
-                              </div>
-                            </div>
+                              </div> 
+                              
+   <script>
+ $(document).ready(function(){
+   $('.sl').slick({
+    centerMode: true,
+     centerPadding: '0rem',
+      slidesToShow: 1,
+        asNavFor: '.sl02',
+       arrows: false,
+
+  });
+   $('.sl02').slick({
+      arrows: false,
+       focusOnSelect: true,
+        asNavFor: '.sl',
+         dots:true,
+          slidesToShow: 5,
+           centerPadding: '1rem',
+    responsive: [
+    {
+      breakpoint: 1024,
+      settings: {
+        slidesToShow: 5,
+        slidesToScroll: 3,
+        infinite: true,
+        dots: true
+      }
+    },
+         {
+           breakpoint: 600,
+             settings: {
+              slidesToShow: 4,
+                slidesToScroll: 2
+                 }
+         },
+                {
+                  breakpoint: 480,
+                    settings: {
+                     slidesToShow: 4,
+                      slidesToScroll: 1
+                         }
+                }
+  ]
+ });
+});
+
+</script>
+                              
+                            
                              
